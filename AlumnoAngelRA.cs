@@ -8,5 +8,14 @@ namespace PracticaCV_AngelRA
 {
     internal class AlumnoAngelRA
     {
+        // CONSTANTES
+
+        // MIEMBROS PRIVADOS
+
+        // CONSTRUCTORES
+
+        // PROPIEDADES
+
+        // MÉTODOS
     }
 }
